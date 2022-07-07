@@ -40,7 +40,7 @@
     "config": {
         "sort-packages": true,
         "platform": {
-            "php": "7.2.25"
+            "php": "^8"
         }
     }
 }
